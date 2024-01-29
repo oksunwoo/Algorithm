@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		531C74CF2B5EA918004D043A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531C74CE2B5EA918004D043A /* main.swift */; };
 		531C74D62B5EA97F004D043A /* BOJ2559.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531C74D52B5EA97F004D043A /* BOJ2559.swift */; };
+		53E47FEC2B67FD5300979256 /* BOJ Input Guide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E47FEB2B67FD5300979256 /* BOJ Input Guide.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		531C74CB2B5EA918004D043A /* CodingTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodingTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		531C74CE2B5EA918004D043A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		531C74D52B5EA97F004D043A /* BOJ2559.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ2559.swift; sourceTree = "<group>"; };
+		53E47FEB2B67FD5300979256 /* BOJ Input Guide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ Input Guide.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				531C74CE2B5EA918004D043A /* main.swift */,
+				53E47FEB2B67FD5300979256 /* BOJ Input Guide.swift */,
 				531C74D52B5EA97F004D043A /* BOJ2559.swift */,
 			);
 			path = CodingTest;
@@ -125,6 +128,7 @@
 			files = (
 				531C74D62B5EA97F004D043A /* BOJ2559.swift in Sources */,
 				531C74CF2B5EA918004D043A /* main.swift in Sources */,
+				53E47FEC2B67FD5300979256 /* BOJ Input Guide.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
